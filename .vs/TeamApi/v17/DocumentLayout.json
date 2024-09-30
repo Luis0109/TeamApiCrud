@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\TeamApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E488B9A8-CB8C-4C89-B999-FFF4C0FE8C40}|TeamApi\\TeamApi.csproj|c:\\users\\lhspinheiro\\documents\\projects.net\\teamapi\\teamapi\\controllers\\timerotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E488B9A8-CB8C-4C89-B999-FFF4C0FE8C40}|TeamApi\\TeamApi.csproj|solutionrelative:teamapi\\controllers\\timerotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E488B9A8-CB8C-4C89-B999-FFF4C0FE8C40}|TeamApi\\TeamApi.csproj|c:\\users\\lhspinheiro\\documents\\projects.net\\teamapi\\teamapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E488B9A8-CB8C-4C89-B999-FFF4C0FE8C40}|TeamApi\\TeamApi.csproj|solutionrelative:teamapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E488B9A8-CB8C-4C89-B999-FFF4C0FE8C40}|TeamApi\\TeamApi.csproj|c:\\users\\lhspinheiro\\documents\\projects.net\\teamapi\\teamapi\\models\\updateplayerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E488B9A8-CB8C-4C89-B999-FFF4C0FE8C40}|TeamApi\\TeamApi.csproj|solutionrelative:teamapi\\models\\updateplayerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E488B9A8-CB8C-4C89-B999-FFF4C0FE8C40}|TeamApi\\TeamApi.csproj|c:\\users\\lhspinheiro\\documents\\projects.net\\teamapi\\teamapi\\models\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E488B9A8-CB8C-4C89-B999-FFF4C0FE8C40}|TeamApi\\TeamApi.csproj|solutionrelative:teamapi\\models\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E488B9A8-CB8C-4C89-B999-FFF4C0FE8C40}|TeamApi\\TeamApi.csproj|c:\\users\\lhspinheiro\\documents\\projects.net\\teamapi\\teamapi\\models\\addplayerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E488B9A8-CB8C-4C89-B999-FFF4C0FE8C40}|TeamApi\\TeamApi.csproj|solutionrelative:teamapi\\models\\addplayerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E488B9A8-CB8C-4C89-B999-FFF4C0FE8C40}|TeamApi\\TeamApi.csproj|c:\\users\\lhspinheiro\\documents\\projects.net\\teamapi\\teamapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E488B9A8-CB8C-4C89-B999-FFF4C0FE8C40}|TeamApi\\TeamApi.csproj|solutionrelative:teamapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E488B9A8-CB8C-4C89-B999-FFF4C0FE8C40}|TeamApi\\TeamApi.csproj|c:\\users\\lhspinheiro\\documents\\projects.net\\teamapi\\teamapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E488B9A8-CB8C-4C89-B999-FFF4C0FE8C40}|TeamApi\\TeamApi.csproj|solutionrelative:teamapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E488B9A8-CB8C-4C89-B999-FFF4C0FE8C40}|TeamApi\\TeamApi.csproj|c:\\users\\lhspinheiro\\documents\\projects.net\\teamapi\\teamapi\\teamapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E488B9A8-CB8C-4C89-B999-FFF4C0FE8C40}|TeamApi\\TeamApi.csproj|solutionrelative:teamapi\\teamapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:268018379:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1939751115:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdatePlayerRequest.cs",
+              "DocumentMoniker": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\TeamApi\\TeamApi\\Models\\UpdatePlayerRequest.cs",
+              "RelativeDocumentMoniker": "TeamApi\\Models\\UpdatePlayerRequest.cs",
+              "ToolTip": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\TeamApi\\TeamApi\\Models\\UpdatePlayerRequest.cs",
+              "RelativeToolTip": "TeamApi\\Models\\UpdatePlayerRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T00:22:55.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\TeamApi\\TeamApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TeamApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\TeamApi\\TeamApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TeamApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-29T18:06:50.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\TeamApi\\TeamApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TeamApi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\TeamApi\\TeamApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TeamApi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T17:57:48.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddPlayerRequest.cs",
+              "DocumentMoniker": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\TeamApi\\TeamApi\\Models\\AddPlayerRequest.cs",
+              "RelativeDocumentMoniker": "TeamApi\\Models\\AddPlayerRequest.cs",
+              "ToolTip": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\TeamApi\\TeamApi\\Models\\AddPlayerRequest.cs",
+              "RelativeToolTip": "TeamApi\\Models\\AddPlayerRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T17:55:54.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TeamApi.http",
+              "DocumentMoniker": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\TeamApi\\TeamApi\\TeamApi.http",
+              "RelativeDocumentMoniker": "TeamApi\\TeamApi.http",
+              "ToolTip": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\TeamApi\\TeamApi\\TeamApi.http",
+              "RelativeToolTip": "TeamApi\\TeamApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-29T17:40:46.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\TeamApi\\TeamApi\\Program.cs",
+              "RelativeDocumentMoniker": "TeamApi\\Program.cs",
+              "ToolTip": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\TeamApi\\TeamApi\\Program.cs",
+              "RelativeToolTip": "TeamApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T17:49:10.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TimeRotas.cs",
+              "DocumentMoniker": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\TeamApi\\TeamApi\\Controllers\\TimeRotas.cs",
+              "RelativeDocumentMoniker": "TeamApi\\Controllers\\TimeRotas.cs",
+              "ToolTip": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\TeamApi\\TeamApi\\Controllers\\TimeRotas.cs",
+              "RelativeToolTip": "TeamApi\\Controllers\\TimeRotas.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA3wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T17:44:54.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Time.cs",
+              "DocumentMoniker": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\TeamApi\\TeamApi\\Models\\Time.cs",
+              "RelativeDocumentMoniker": "TeamApi\\Models\\Time.cs",
+              "ToolTip": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\TeamApi\\TeamApi\\Models\\Time.cs",
+              "RelativeToolTip": "TeamApi\\Models\\Time.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T17:40:29.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

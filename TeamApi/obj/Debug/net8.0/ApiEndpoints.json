@@ -1,0 +1,113 @@
+[
+  {
+    "ContainingType": "TeamApi.Controllers.TimeRotas\u002B\u003C\u003Ec",
+    "Method": "\u003CaddTime\u003Eb__0_0",
+    "RelativePath": "Jogadores/",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "TeamApi.Models.AddPlayerRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TeamApi.Controllers.TimeRotas\u002B\u003C\u003Ec",
+    "Method": "\u003CaddTime\u003Eb__0_1",
+    "RelativePath": "Jogadores/",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[TeamApi.Models.Time, TeamApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TeamApi.Controllers.TimeRotas\u002B\u003C\u003Ec",
+    "Method": "\u003CaddTime\u003Eb__0_2",
+    "RelativePath": "Jogadores/{Nome}",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Nome",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TeamApi.Controllers.TimeRotas\u002B\u003C\u003Ec",
+    "Method": "\u003CaddTime\u003Eb__0_3",
+    "RelativePath": "Jogadores/{Nome}",
+    "HttpMethod": "PUT",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Nome",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "TeamApi.Models.UpdatePlayerRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TeamApi.Controllers.TimeRotas\u002B\u003C\u003Ec",
+    "Method": "\u003CaddTime\u003Eb__0_4",
+    "RelativePath": "Jogadores/{Nome}",
+    "HttpMethod": "DELETE",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Nome",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
